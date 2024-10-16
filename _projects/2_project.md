@@ -1,6 +1,6 @@
 ---
 layout: page
-title: imaging and mechanics of fibrous tissues
+title: Imaging and Mechanics of Fibrous Tissues
 # description: a project with a background image and giscus comments
 img: /assets/video/REV-animation.gif
 importance: 2
