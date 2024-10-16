@@ -2,17 +2,36 @@
  * Content
  ******************************************************************************/
 
+ .icon {
+  background: url('../../../assets/img/graphic.svg');
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.navbar {
+  font-weight: 700;
+  // font-size: 1rem;
+  font-size: 16px;
+}
+
+.navbar-brand {
+  font-size: 20px;
+}
+
+.light {
+  font-weight: 200;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
   }
 }
@@ -32,19 +51,43 @@ body.sticky-bottom-footer {
 }
 
 // Profile
+
+.thumbnail {
+  position: relative;
+  width: 90%;
+  /* height: 200px; */
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+.thumbnail img.portrait {
+  width: 100%;
+  height: auto;
+}
+
 .profile {
-  img {
-    width: 100%;
-  }
+  max-width: 300px;
 }
 
 // TODO: redefine content layout.
+
 
 /******************************************************************************
  * Publications
  ******************************************************************************/
 
 // TODO: redefine publications layout.
+
 
 /*****************************************************************************
 * Projects
