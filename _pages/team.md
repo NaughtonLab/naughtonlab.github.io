@@ -129,6 +129,7 @@ nav_order: 2
 <p><b>Johannes Rümmelein</b> </p> <br>
     <p>M.S. Student</p> <br>
     <p>Mechanical Engineering</p> <br>
+    <p>rjohannes@vt.edu </p>
 </div>
 </div>
 
