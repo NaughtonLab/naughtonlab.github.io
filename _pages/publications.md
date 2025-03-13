@@ -17,11 +17,11 @@ nav_order: 3
 These publications are provided to the academic community for use in teaching and research. All copyrights remain with the appropriate parties as listed in the publications themselves.
 
 
-<!-- #### <b>Preprints</b>
+#### <b>Preprints</b>
 
-Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of an octopus-analog muscular hydrostat](https://arxiv.org/abs/2304.08413){: target="_blank"}**. **arXiv:2304.08413**
+Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**. **arXiv:2503.09477**
 
-<hr> -->
+<hr>
 
 #### <b> 2024</b>
 
