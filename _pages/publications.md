@@ -19,7 +19,7 @@ These publications are provided to the academic community for use in teaching an
 
 #### <b>Preprints</b>
 
-Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**. **arXiv:2503.09477**
+Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**. **arXiv:**2503.09477
 
 <hr>
 
