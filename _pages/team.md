@@ -121,15 +121,15 @@ nav_order: 2
 <div class="profile float-left" >
 <figure>
   <picture>
-    <img src="/assets/img/RummeleinJohannes_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
 
 <div class="more-info">
-<p><b>Johannes Rümmelein</b> </p> <br>
+<p><b>Everett Liggett</b> </p> <br>
     <p>M.S. Student</p> <br>
     <p>Mechanical Engineering</p> <br>
-    <p>rjohannes@vt.edu </p>
+    <p>everettl@vt.edu </p>
 </div>
 </div>
 
