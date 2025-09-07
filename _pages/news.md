@@ -15,6 +15,8 @@ nav_order: 6
 
 **September 2025** – Noel (PI) awarded a **[NSF DCSD](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528850&HistoricalAwards=false)** grant for ultrasound tracking of octopus motion
 
+**August 2025** – Everett joins lab as a Masters student. Welcome Everett!
+
 **April 2025** – Our EFRI Reservoid Computing work is **[featured by VT News](https://news.vt.edu/articles/2025/04/eng-me-clahs-nsf-efri-pericyte-computer.html)**! 
 
 **Feburary 2025** – The lab presents at local Science on Tap event on ocoptus arm mechanics and bioinpired robotics. Read more about the event **[here](https://communicatingscience.isce.vt.edu/news/Center_for_Communicating_Science_newsletter/Science_on_Tap_Ink-credible_Octopus-Inspired_Robot_Arms.html)**
