@@ -23,7 +23,7 @@ nav_order: 6
 
 **Janurary 2025** – Advait joins lab as a PhD student. Welcome Advait!
 
-**November 2024** - Apoorva passes qualifying exam. Congrats Bokun! 
+**November 2024** - Apoorva passes qualifying exam. Congrats Apoorva! 
 
 **October 2024** - Our CyberOctopus work makes the **[cover of PNAS](../pubs/2024_PNAS_cover.pdf){: target="_blank"}**! 
 
