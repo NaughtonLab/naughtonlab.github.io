@@ -23,11 +23,17 @@ Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neura
 
 <hr>
 
+#### <b> 2023</b>
+
+Khairnar A, Phalak Y, Wang J, Zhou Z, Rümmelein J, Jantzen B, Li S, Naughton N. **[Physical Reservoir Computing With Compliant Fiber Networks](../pubs/2025_SMASIS.pdf){: target="_blank"}**. **ASME Conference on Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS)**, 2025; p167868.
+
+<hr>
+
 #### <b> 2024</b>
 
-Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of a muscle-architected soft arm](../pubs/2024_PNAS.pdf){: target="_blank"}**. **PNAS**, 2024;121:41. (**[Cover](../pubs/2024_PNAS_cover.pdf){: target="_blank"}**)
+Tekinapl A, Naughton N, Kim SH, Halder U, Gillette R, Mehta PG, Kier W, and Gazzola M. **[Topology, dynamics, and control of a muscle-architected soft arm](../pubs/2024_PNAS.pdf){: target="_blank"}**. **PNAS**, 2024; 121:41. (**[Cover](../pubs/2024_PNAS_cover.pdf){: target="_blank"}**)
 
-Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024;43:11.
+Naughton N,  Cahoon S,  Sutton B, and Georgiadis JG. **[Accelerated, physics-inspired inference of skeletal muscle microstructure from diffusion-weighted MRI](../pubs/2024_TMI.pdf){: target="_blank"}**. **IEEE Transactions on Medical Imaging**, 2024; 43:11.
 
 Zhao Q, Gribkova E, Shen Y, Cui J, Naughton N, Liu L, Seo J, Tong B, Gazzola M, Gillette R, and Zhao H. **[Highly stretchable and customizable microneedle electrode arrays for intramuscular electromyography](../pubs/2024_SciAdv.pdf)**. **Science Advances**, 2024; 10:18. (**[Cover](../pubs/2024_SciAdv_cover.jpg){: target="_blank"}**)
 
