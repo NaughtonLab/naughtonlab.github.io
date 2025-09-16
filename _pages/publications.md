@@ -23,7 +23,7 @@ Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neura
 
 <hr>
 
-#### <b> 2023</b>
+#### <b> 2025</b>
 
 Khairnar A, Phalak Y, Wang J, Zhou Z, Rümmelein J, Jantzen B, Li S, Naughton N. **[Physical Reservoir Computing With Compliant Fiber Networks](../pubs/2025_SMASIS.pdf){: target="_blank"}**. **ASME Conference on Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS)**, 2025; p167868.
 
