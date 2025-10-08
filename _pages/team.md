@@ -150,6 +150,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Claudia Sanna</b> </p> <br>
+        <p>UG/G Student</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -162,6 +163,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Lys Micheli</b> </p> <br>
+        <p>UG/G Student</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -174,6 +176,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Tim Perez</b> </p> <br>
+      <p>UG/G Student</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
