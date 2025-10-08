@@ -181,6 +181,8 @@ nav_order: 2
   </div>
 </div>
 
+
+
 <!--
 <div class="profile float-left" >
   <figure>
@@ -216,6 +218,7 @@ nav_order: 2
 <h2 id="alumni">Alumni</h2>
 <hr>
   <ul>
+  <li>Robert Lorence (M.S.) - Researcher @ Monash University</li>
   <li>Azhar Ramadhan (UG) - Boeing</li>
   <li>Michael Chiou (UG) - PhD student @ UPenn</li>
 </ul>
