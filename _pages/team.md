@@ -171,7 +171,7 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/perez_headshot_cropped.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="perez_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/perez_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="perez_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
