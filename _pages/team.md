@@ -91,7 +91,7 @@ nav_order: 2
 <div class="profile float-left" >
 <figure>
   <picture>
-    <img src="/assets/img/zheng_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/zheng_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="zheng_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
 
@@ -106,7 +106,7 @@ nav_order: 2
 <div class="profile float-left" >
 <figure>
   <picture>
-    <img src="/assets/img/borole_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/borole_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="borole_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
 
@@ -121,7 +121,7 @@ nav_order: 2
 <div class="profile float-left" >
 <figure>
   <picture>
-    <img src="/assets/img/everett_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/everett_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="everett_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
 
@@ -145,12 +145,12 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/Sanna_heatshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/Sanna_heatshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="Sanna_heatshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
   <p><b>Claudia Sanna</b> </p> <br>
-        <p>UG/G Student</p> <br>
+        <p>Senior (UG/G)</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -158,12 +158,12 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/micheli_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="micheli_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
   <p><b>Lys Micheli</b> </p> <br>
-        <p>UG/G Student</p> <br>
+        <p>Senior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -171,12 +171,12 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/perez_headshot_cropped.png" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="perez_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
   <p><b>Tim Perez</b> </p> <br>
-      <p>UG/G Student</p> <br>
+      <p>Senior (UG/G)</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
