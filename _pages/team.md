@@ -133,6 +133,22 @@ nav_order: 2
 </div>
 </div>
 
+
+<div class="profile float-left" >
+  <figure>
+    <picture>
+      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Shane Scott</b> </p> <br>
+      <p>M.S. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+    <p>shanescott@vt.edu</p>
+  </div>
+</div>
+
+
 </div>
 
  <br>
