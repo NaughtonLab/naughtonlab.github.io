@@ -11,6 +11,8 @@ nav_order: 6
     
 <p class="post-description">{{ page.description }}</p>
 
+**Feburary 2026** – Noel (PI) awarded a **[NSF EBMS](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2537277)** grant for diffusion MRI of reproductive tissue
+
 **September 2025** – Noel is a guest on **[The Engineering Communication Podcast](https://open.spotify.com/show/2UFJbdGgJRIqaOjNPN1v8z)**
 
 **September 2025** – Noel (PI) awarded a **[NSF DCSD](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2528850&HistoricalAwards=false)** grant for ultrasound tracking of octopus motion
