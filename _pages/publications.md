@@ -23,7 +23,10 @@ Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neura
 
 Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](https://arxiv.org/pdf/2601.03536){: target="_blank"}**. **arXiv:**2601.03536
 
-Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universal genomic constraints in the evolvability of thermal physiology](https://www.biorxiv.org/content/10.64898/2025.12.12.693958v1.article-metrics){: target="_blank"}**. **bioRxiv:**2025.12.12.693958
+Focht M, Borole A, Moghaddam A, Wagoner Johnson A, Pineda Guzman R, Damon B, Naughton N, Kersh M. **[The effect of microstructural variations in tendon and ligament on diffusion tensor MRI](https://www.biorxiv.org/content/10.64898/2026.03.12.711135v1){: target="_blank"}**. **bioRxiv:**2026.03.12.711135
+
+
+Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universal genomic constraints in the evolvability of thermal physiology](https://www.biorxiv.org/content/10.64898/2025.12.12.693958v1){: target="_blank"}**. **bioRxiv:**2025.12.12.693958
 
 <hr>
 
