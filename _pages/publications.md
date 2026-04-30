@@ -19,15 +19,21 @@ These publications are provided to the academic community for use in teaching an
 
 #### <b>Preprints</b>
 
-Naughton N, Tekinapl A, Shivam K, Kim SH, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**. **arXiv:**2503.09477
-
 Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](https://arxiv.org/pdf/2601.03536){: target="_blank"}**. **arXiv:**2601.03536
+
+Phalak Y, Low WS, Khairnar A, Jantzen B, Naughton N, Li S. **[OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing](https://arxiv.org/pdf/2604.07423){: target="_blank"}**. **arXiv:**2604.07423
+
+Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping](https://arxiv.org/pdf/2604.26897){: target="_blank"}**. **arXiv:**2604.26897
 
 Focht M, Borole A, Moghaddam A, Wagoner Johnson A, Pineda Guzman R, Damon B, Naughton N, Kersh M. **[The effect of microstructural variations in tendon and ligament on diffusion tensor MRI](https://www.biorxiv.org/content/10.64898/2026.03.12.711135v1){: target="_blank"}**. **bioRxiv:**2026.03.12.711135
 
-
 Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universal genomic constraints in the evolvability of thermal physiology](https://www.biorxiv.org/content/10.64898/2025.12.12.693958v1){: target="_blank"}**. **bioRxiv:**2025.12.12.693958
 
+<hr>
+
+#### <b> 2026</b>
+
+Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**.  **PNAS**, 2024; 121:41.
 <hr>
 
 #### <b> 2025</b>
