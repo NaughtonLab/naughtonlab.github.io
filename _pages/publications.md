@@ -8,9 +8,16 @@ nav_order: 3
 ---
 
   <picture>
-    <!-- Auto scaling with imagemagick -->
-    <img src="/assets/img/covers.png" class="img-fluid z-depth-1" width="100%" height="auto" alt="covers.png" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img id="pub-covers" src="/assets/img/covers_lowres.jpg" class="img-fluid z-depth-1" width="100%" height="auto" alt="Journal covers" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
+  <script>
+    (function () {
+      var img = document.getElementById('pub-covers');
+      var full = new Image();
+      full.onload = function () { img.src = full.src; };
+      full.src = '/assets/img/covers.png';
+    })();
+  </script>
 
 <br>
 
