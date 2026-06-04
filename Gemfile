@@ -25,6 +25,6 @@ end
 group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
-    gem 'httparty'
+    gem 'httparty', '>= 0.24.0'
     gem 'nokogiri', '>= 1.19.3'
 end
