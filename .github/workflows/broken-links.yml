@@ -52,4 +52,4 @@ jobs:
           #   README.md, _pages/404.md — intentionally non-checkable
           #   _includes/, _layouts/ — contain Liquid {{ }} that lychee misreads as URLs
           # Accepts 403 — common false-positive from publishers (bioRxiv, journals) blocking bots
-          args: --user-agent 'curl/7.54' --base "${{ github.workspace }}" --exclude-path README.md --exclude-path _pages/404.md --exclude-path _includes --exclude-path _layouts --accept '200..=299,403' --verbose --no-progress './**/*.md' './**/*.html'
+          args: --user-agent 'curl/7.54' --root-dir "${{ github.workspace }}" --exclude-path README.md --exclude-path _pages/404.md --exclude-path _includes --exclude-path _layouts --accept '200..=299,403' --verbose --no-progress './**/*.md' './**/*.html'

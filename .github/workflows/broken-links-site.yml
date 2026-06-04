@@ -42,5 +42,5 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          # only check local links; --base resolves site-absolute paths like /research/
-          args: --offline --base "${{ github.workspace }}/_site" --verbose --no-progress '_site/**/*.html'
+          # only check local links; --root-dir resolves site-absolute paths like /research/
+          args: --offline --root-dir "${{ github.workspace }}/_site" --verbose --no-progress '_site/**/*.html'
