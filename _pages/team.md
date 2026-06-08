@@ -5,10 +5,9 @@ title: people
 description: members of the lab or group
 nav: true
 nav_order: 2
-
 # profiles:
 #   # if you want to include more than one profile, just replicate the following block
-#   # and create one content file for each profile inside _pages/ 
+#   # and create one content file for each profile inside _pages/
 #   - align: right
 #     image: naughton_headshot.jpg
 #     content: about_einstein.md
@@ -218,10 +217,6 @@ nav_order: 2
   </div>
 </div>
 
-
-
-
-
 <div class="profile float-left" >
   <figure>
     <picture>
@@ -248,10 +243,6 @@ nav_order: 2
   </div>
 </div>
 
-
-
-
-
 <!--
 <div class="profile float-left" >
   <figure>
@@ -264,7 +255,7 @@ nav_order: 2
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
---> 
+-->
 
 <!--
 <div class="profile float-left" >
@@ -294,7 +285,4 @@ nav_order: 2
   <li>Tim Perez (UG)</li>
 </ul>
 
-  
-
   </article>
-
