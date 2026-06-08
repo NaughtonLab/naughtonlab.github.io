@@ -109,7 +109,6 @@ nav_order: 2
     <img src="/assets/img/borole_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="borole_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
-
 <div class="more-info">
 <p><b>Advait Borole</b> </p> <br>
     <p>Ph.D. Student</p> <br>
@@ -119,17 +118,28 @@ nav_order: 2
 </div>
 
 <div class="profile float-left" >
+  <figure>
+    <picture>
+      <img src="/assets/img/fleck_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Gavin Fleck</b> </p> <br>
+      <p>Ph.D. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
+</div>
+
+<div class="profile float-left" >
 <figure>
   <picture>
     <img src="/assets/img/everett_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="everett_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
   </picture>
 </figure>
-
 <div class="more-info">
 <p><b>Everett Liggett</b> </p> <br>
     <p>M.S. Student</p> <br>
     <p>Mechanical Engineering</p> <br>
-    <p>everettl@vt.edu </p>
 </div>
 </div>
 
@@ -144,10 +154,21 @@ nav_order: 2
   <p><b>Shane Scott</b> </p> <br>
       <p>M.S. Student</p> <br>
       <p>Mechanical Engineering</p> <br>
-    <p>shanescott@vt.edu</p>
   </div>
 </div>
 
+<div class="profile float-left" >
+  <figure>
+    <picture>
+      <img src="/assets/img/Sanna_heatshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="Sanna_heatshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Claudia Sanna</b> </p> <br>
+        <p>M.S. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
+</div>
 
 </div>
 
@@ -161,50 +182,11 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/Sanna_heatshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="Sanna_heatshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/carson_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="carson_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
-  <p><b>Claudia Sanna</b> </p> <br>
-        <p>Senior (UG/G)</p> <br>
-      <p>Mechanical Engineering</p> <br>
-  </div>
-</div>
-
-<div class="profile float-left" >
-  <figure>
-    <picture>
-      <img src="/assets/img/micheli_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="micheli_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-    </picture>
-  </figure>
-  <div class="more-info">
-  <p><b>Lys Micheli</b> </p> <br>
-        <p>Senior</p> <br>
-      <p>Mechanical Engineering</p> <br>
-  </div>
-</div>
-
-<div class="profile float-left" >
-  <figure>
-    <picture>
-      <img src="/assets/img/perez_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="perez_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-    </picture>
-  </figure>
-  <div class="more-info">
-  <p><b>Tim Perez</b> </p> <br>
-      <p>Senior (UG/G)</p> <br>
-      <p>Mechanical Engineering</p> <br>
-  </div>
-</div>
-
-<div class="profile float-left" >
-  <figure>
-    <picture>
-      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-    </picture>
-  </figure>
-  <div class="more-info">
-  <p><b>Ryzher Medina</b> </p> <br>
+  <p><b>Carson Long</b> </p> <br>
       <p>Senior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
@@ -213,15 +195,19 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/fleck_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/zipeng_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="zipeng_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
-  <p><b>Gavin Fleck</b> </p> <br>
-      <p>Senior (UG/G)</p> <br>
+  <p><b>Zipeng Guo</b> </p> <br>
+      <p>Senior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
+
+
+
+
 
 <div class="profile float-left" >
   <figure>
@@ -231,7 +217,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Brady Bernier</b> </p> <br>
-      <p>Sophomore</p> <br>
+      <p>Junior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -244,7 +230,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Krish Sharma</b> </p> <br>
-      <p>Sophomore</p> <br>
+      <p>Junior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -291,6 +277,8 @@ nav_order: 2
   <li>Robert Lorence (M.S.) - Researcher @ Monash University</li>
   <li>Azhar Ramadhan (UG) - Boeing</li>
   <li>Michael Chiou (UG) - PhD student @ UPenn</li>
+  <li>Kenneth George (UG)</li>
+  <li>Tim Perez (UG)</li>
 </ul>
 
   
