@@ -120,13 +120,14 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/fleck_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/micheli_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="micheli_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
-  <p><b>Gavin Fleck</b> </p> <br>
-      <p>Ph.D. Student</p> <br>
+  <p><b>Lys Micheli</b> </p> <br>
+    <p>Ph.D. Student</p> <br>
       <p>Mechanical Engineering</p> <br>
+<p>alyssalm@vt.edu </p>
   </div>
 </div>
 
@@ -143,6 +144,18 @@ nav_order: 2
 </div>
 </div>
 
+<div class="profile float-left" >
+  <figure>
+    <picture>
+      <img src="/assets/img/fleck_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Gavin Fleck</b> </p> <br>
+      <p>M.S. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
+</div>
 
 <div class="profile float-left" >
   <figure>
