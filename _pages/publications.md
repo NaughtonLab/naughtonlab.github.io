@@ -27,10 +27,7 @@ These publications are provided to the academic community for use in teaching an
 #### <b>Preprints</b>
 
 Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](https://arxiv.org/pdf/2601.03536){: target="_blank"}**. **arXiv:**2601.03536
-
-Phalak Y, Low WS, Khairnar A, Jantzen B, Naughton N, Li S. **[OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing](https://arxiv.org/pdf/2604.07423){: target="_blank"}**. **arXiv:**2604.07423
-
-Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping](https://arxiv.org/pdf/2604.26897){: target="_blank"}**. **arXiv:**2604.26897
+zPhalak Y, Low WS, Khairnar A, Jantzen B, Naughton N, Li S. **[OpenPRC: A Unified Open-Source Framework for Physics-to-Task Evaluation in Physical Reservoir Computing](https://arxiv.org/pdf/2604.07423){: target="_blank"}**. **arXiv:**2604.07423
 
 Focht M, Borole A, Moghaddam A, Wagoner Johnson A, Pineda Guzman R, Damon B, Naughton N, Kersh M. **[The effect of microstructural variations in tendon and ligament on diffusion tensor MRI](https://www.biorxiv.org/content/10.64898/2026.03.12.711135v1){: target="_blank"}**. **bioRxiv:**2026.03.12.711135
 
@@ -40,7 +37,9 @@ Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universa
 
 #### <b> 2026</b>
 
-Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](https://arxiv.org/pdf/2503.09477){: target="_blank"}**.  **PNAS**, 2024; 121:41.
+Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping](../pubs/2026_AdvSci.pdf){: target="_blank"}**. **Advanced Science:**, 2026; e76810.
+
+Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](../pubs/2026_PNAS.pdf){: target="_blank"}**.  **PNAS**, 2024; 121:41.
 <hr>
 
 #### <b> 2025</b>

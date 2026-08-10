@@ -79,7 +79,6 @@ nav_order: 2
       <img src="/assets/img/khairnar_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="khairnar_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
-
   <div class="more-info">
     <p><b>Apoorva Khairnar </b></p> <br>
     <p>Ph.D. Student</p> <br>
@@ -89,32 +88,31 @@ nav_order: 2
 </div>
 
 <div class="profile float-left" >
-<figure>
-  <picture>
-    <img src="/assets/img/zheng_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="zheng_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-
-<div class="more-info">
-<p><b>Bokun Zheng</b> </p> <br>
-    <p>Ph.D. Student</p> <br>
-    <p>Mechanical Engineering</p> <br>
-<p>bokunz@vt.edu </p>
-</div>
+  <figure>
+    <picture>
+      <img src="/assets/img/zheng_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="zheng_headshot_cropped.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Bokun Zheng</b> </p> <br>
+      <p>Ph.D. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  <p>bokunz@vt.edu </p>
+  </div>
 </div>
 
 <div class="profile float-left" >
-<figure>
-  <picture>
-    <img src="/assets/img/borole_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="borole_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-  </picture>
-</figure>
-<div class="more-info">
-<p><b>Advait Borole</b> </p> <br>
-    <p>Ph.D. Student</p> <br>
-    <p>Mechanical Engineering</p> <br>
-<p>advaitb@vt.edu </p>
-</div>
+  <figure>
+    <picture>
+      <img src="/assets/img/borole_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="borole_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Advait Borole</b> </p> <br>
+      <p>Ph.D. Student</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  <p>advaitb@vt.edu </p>
+  </div>
 </div>
 
 <div class="profile float-left" >
@@ -127,7 +125,7 @@ nav_order: 2
   <p><b>Lys Micheli</b> </p> <br>
     <p>Ph.D. Student</p> <br>
       <p>Mechanical Engineering</p> <br>
-<p>alyssalm@vt.edu </p>
+    <p>alyssalm@vt.edu </p>
   </div>
 </div>
 
@@ -217,10 +215,6 @@ nav_order: 2
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
-
-
-
-
 
 <div class="profile float-left" >
   <figure>
