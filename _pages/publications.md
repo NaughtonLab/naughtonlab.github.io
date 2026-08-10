@@ -38,7 +38,7 @@ Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universa
 
 Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](../pubs/2026_JIMSS.pdf){: target="_blank"}**. **Journal of Intelligent Material Systems and Structures**, 2026; 0:0.
 
-Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Universal Robotic Gripping](../pubs/2026_AdvSci.pdf){: target="_blank"}**. **Advanced Science**, 2026; e76810.
+Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Robust Robotic Gripping](../pubs/2026_AdvSci.pdf){: target="_blank"}**. **Advanced Science**, 2026; e76810.
 
 Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](../pubs/2026_PNAS.pdf){: target="_blank"}**.  **PNAS**, 2024; 121:41.
 
