@@ -40,7 +40,7 @@ Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web
 
 Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Robust Robotic Gripping](../pubs/2026_AdvSci.pdf){: target="_blank"}**. **Advanced Science**, 2026; e76810.
 
-Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](../pubs/2026_PNAS.pdf){: target="_blank"}**.  **PNAS**, 2024; 121:41.
+Naughton N, Tekinapl A, Shivam K, Kim SH, Khairnar A, Kindratenko K, and Gazzola M. **[Neural reservoir control of a soft bio-hybrid arm](../pubs/2026_PNAS.pdf){: target="_blank"}**.  **PNAS**, 2026; 123:17.
 
 <hr>
 
