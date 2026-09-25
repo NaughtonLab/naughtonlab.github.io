@@ -245,7 +245,7 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
-      <img src="/assets/img/hindley_headshot.jpeg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt=“hindley_headshot.jpeg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+      <img src="/assets/img/hindley_headshot.jpeg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="hindley_headshot.jpeg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
   <div class="more-info">
@@ -254,6 +254,8 @@ nav_order: 2
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
+
+
 
 <!-- <div class="profile float-left" >
   <figure>
