@@ -232,6 +232,32 @@ nav_order: 2
 <div class="profile float-left" >
   <figure>
     <picture>
+      <img src="/assets/img/bernier_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Brady Bernier</b> </p> <br>
+      <p>Senior</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
+</div>
+
+<div class="profile float-left" >
+  <figure>
+    <picture>
+      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    </picture>
+  </figure>
+  <div class="more-info">
+  <p><b>Krish Sharma</b> </p> <br>
+      <p>Senior</p> <br>
+      <p>Mechanical Engineering</p> <br>
+  </div>
+</div>
+
+<div class="profile float-left" >
+  <figure>
+    <picture>
       <img src="/assets/img/elias_headshot.jpeg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="elias_headshot.jpeg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
     </picture>
   </figure>
@@ -257,31 +283,7 @@ nav_order: 2
 
 
 
-<!-- <div class="profile float-left" >
-  <figure>
-    <picture>
-      <img src="/assets/img/bernier_headshot_cropped.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-    </picture>
-  </figure>
-  <div class="more-info">
-  <p><b>Brady Bernier</b> </p> <br>
-      <p>Junior</p> <br>
-      <p>Mechanical Engineering</p> <br>
-  </div>
-</div>
 
-<div class="profile float-left" >
-  <figure>
-    <picture>
-      <img src="/assets/img/no_headshot.jpg" class="img-fluid z-depth-1 thumbnail center-img" width="100%" height="auto" alt="no_headshot.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-    </picture>
-  </figure>
-  <div class="more-info">
-  <p><b>Krish Sharma</b> </p> <br>
-      <p>Junior</p> <br>
-      <p>Mechanical Engineering</p> <br>
-  </div>
-</div> -->
 
 
 
