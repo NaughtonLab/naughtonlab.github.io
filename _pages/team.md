@@ -237,7 +237,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Brady Bernier</b> </p> <br>
-      <p>Senior</p> <br>
+      <p>Junior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
@@ -250,7 +250,7 @@ nav_order: 2
   </figure>
   <div class="more-info">
   <p><b>Krish Sharma</b> </p> <br>
-      <p>Senior</p> <br>
+      <p>Junior</p> <br>
       <p>Mechanical Engineering</p> <br>
   </div>
 </div>
