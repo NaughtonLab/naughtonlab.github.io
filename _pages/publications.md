@@ -36,7 +36,10 @@ Waldron B, Tarimo E, Sashittal P, Naughton N, Muñoz M, and Uyeda J. **[Universa
 
 #### <b> 2026</b>
 
-Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](../pubs/2026_JIMSS.pdf){: target="_blank"}**. **Journal of Intelligent Material Systems and Structures**, 2026; 0:0.
+
+Naughton N. **[Muscular Hydrostats](../pubs/2026_CurrBio.pdf){: target="_blank"}**. **Current Biology**, 2026; 36(19):PR1012.
+
+Khairnar A, Phalak Y, Wang J, Zhou Z, Jantzen B, Li S, Naughton N. **[Spider web inspired sensing using fiber network physical reservoirs](../pubs/2026_JIMSS.pdf){: target="_blank"}**. **Journal of Intelligent Material Systems and Structures**, 2026.
 
 Boron A, Zheng B, Zhou Z, Naughton N, Li S. **[Stochastic Entanglement of Deterministic Origami Tentacles For Robust Robotic Gripping](../pubs/2026_AdvSci.pdf){: target="_blank"}**. **Advanced Science**, 2026; e76810.
 
